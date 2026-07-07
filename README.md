@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://id.pinterest.com/pin/25403185394638463.gif" width="100%" />
+  <iframe src="https://assets.pinterest.com/ext/embed.html?id=831477150001215230" height="600" width="100%" frameborder="0" scrolling="no"></iframe>
 </p>
 
 
