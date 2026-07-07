@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://id.pinterest.com/pin/25403185394638463.gif" width="100%" />
+</p>
+
+
 # 💫 About Me:
 Saya adalah seorang pelajar Rekayasa Perangkat Lunak (RPL) yang memiliki minat besar di bidang pengembangan perangkat lunak, khususnya aplikasi web dan mobile. Saya aktif mempelajari berbagai teknologi modern seperti React, React Native, Node.js, Express.js, Lua dan MySQL .
 
